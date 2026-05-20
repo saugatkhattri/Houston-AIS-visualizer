@@ -28,3 +28,7 @@ The repository is shared for learning, experimentation, and educational purposes
 ## Note
 
 This is a demonstration and learning project and is not intended for operational maritime navigation or official vessel monitoring.
+
+Download CSV data from NOAA AIS Archive:
+
+https://coast.noaa.gov/htdata/CMSP/AISDataHandler/
